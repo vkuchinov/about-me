@@ -4,5 +4,5 @@ I am an experienced <u>senior digital designer</u> with a strong sense of typogr
 
 My interest in creative coding are: generative 2D/3D graphics, polyargorithms, graph theory and everything could sharp quality of generative outcomes.
 
-MA Computational Arts, Goldsmiths, University of London
-BA (Hons) Graphic Design & Illustration
+MA Computational Arts, <i>Goldsmiths, University of London</i><br>
+BA (Hons) Graphic Design & Illustration, <i>University of Hertfordshire</i>
