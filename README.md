@@ -1,5 +1,5 @@
 <b><h1>about me</h1></b>
-<i>a designer who codes</i><br><br>
+<i>a graphic designer who codes</i><br><br>
 Hi there,<br><br>
 I am experienced <u>senior designer</u> with a strong sense of typography, working on the edge of visual communications, creative coding and technologies — everything could be considered <i>generative</i> or <i>data-driven</i> design. 
 
