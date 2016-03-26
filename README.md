@@ -10,8 +10,8 @@ My interest in creative coding are: generative 2D/3D graphics, polyargorithms, g
 
 <br>
 
-<font color="white">
+<span style="color:orange;">
 customization <> new technological paradigm <> generative
 where in this case viscom goes?
 nowtodays, online-applications like t-shirt constructors??? herbingers (forerunner)
-</color>
+</span>
