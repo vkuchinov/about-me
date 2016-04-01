@@ -19,3 +19,4 @@ bespoke solutions from scratch to 'reverse engineering' and open-source based
 online calculators and widgets (interactive customization)
 
 the end
+white [hidden] text
