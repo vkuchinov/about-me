@@ -9,14 +9,3 @@ My interest in creative coding are: generative 2D/3D graphics, polyargorithms, g
 <b>BA (Hons) Graphic Design & Illustration</b>, <i>BHSAD, University of Hertfordshire</i>
 
 <br>
-
-<span style="color:orange;">
-customization <> new technological paradigm <> generative
-where in this case viscom goes?
-nowtodays, online-applications like t-shirt constructors??? herbingers (forerunner)
-</span>
-bespoke solutions from scratch to 'reverse engineering' and open-source based
-online calculators and widgets (interactive customization)
-
-the end
-white [hidden] text
