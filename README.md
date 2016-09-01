@@ -20,3 +20,5 @@ online calculators and widgets (interactive customization)
 
 the end
 white [hidden] text
+
+your brief shoud be started with "What if..." inclusions vs. exclusions is my ratio.
