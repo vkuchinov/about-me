@@ -22,3 +22,18 @@ the end
 white [hidden] text
 
 your brief shoud be started with "What if..." inclusions vs. exclusions is my ratio.
+
+## Features
+
+- Feature 1 <span title="This feature does something amazing">ℹ️</span>
+- Feature 2 <span title="Advanced functionality with configurable options">ℹ️</span>
+- Feature 3 <span title="Coming soon in v2.0">ℹ️</span>
+
+## Labels with Tooltips
+
+<div>
+  <span title="Click to learn more about bugs">🐛 Bug</span> |
+  <span title="New feature request">✨ Feature</span> |
+  <span title="Help needed to implement">🛠️ Help Wanted</span> |
+  <span title="Documentation improvements">📚 Docs</span>
+</div>
