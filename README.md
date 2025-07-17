@@ -14,4 +14,4 @@ My interest in creative coding are: generative 2D/3D graphics, polyargorithms, g
   <span title="Generative Desing">🛠️ GD</span> |
   <span title="Data Driven Design">✨ DDD</span> |
   <span title="Algorithmic-Aided Design">📚 AAD</span> |
-\</div>
+</div>
