@@ -8,32 +8,10 @@ My interest in creative coding are: generative 2D/3D graphics, polyargorithms, g
 <b>MA Computational Arts</b>, Merit,<i>Goldsmiths, University of London</i><br>
 <b>BA (Hons) Graphic Design & Illustration</b>, First Class<i>BHSAD, University of Hertfordshire</i>
 
-<br>
-<br><br><br><br><br><br><br><br><br><br><br>
-<span style="color:orange;">
-customization <> new technological paradigm <> generative
-where in this case viscom goes?
-nowtodays, online-applications like t-shirt constructors??? herbingers (forerunner)
-</span>
-bespoke solutions from scratch to 'reverse engineering' and open-source based
-online calculators and widgets (interactive customization)
-
-the end
-white [hidden] text
-
-your brief shoud be started with "What if..." inclusions vs. exclusions is my ratio.
-
-## Features
-
-- Feature 1 <span title="This feature does something amazing">ℹ️</span>
-- Feature 2 <span title="Advanced functionality with configurable options">ℹ️</span>
-- Feature 3 <span title="Coming soon in v2.0">ℹ️</span>
-
-## Labels with Tooltips
+## Specializations
 
 <div>
-  <span title="Click to learn more about bugs">🐛 Bug</span> |
-  <span title="New feature request">✨ Feature</span> |
-  <span title="Help needed to implement">🛠️ Help Wanted</span> |
-  <span title="Documentation improvements">📚 Docs</span>
-</div>
+  <span title="Generative Desing">🛠️ GD</span> |
+  <span title="Data Driven Design">✨ DDD</span> |
+  <span title="Algorithmic-Aided Design">📚 AAD</span> |
+\</div>
